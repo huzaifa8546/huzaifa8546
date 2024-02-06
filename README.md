@@ -19,7 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifa8546&show_icons=true&locale=en" alt="huzaifa8546" /></p>
 <br clear="both">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/B-Mustafa/B-Mustafa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huzaifa8546/huzaifa8546/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/B-Mustafa/B-Mustafa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/B-Mustafa/B-Mustafa/output/github-contribution-grid-snake.svg">
 </picture>
