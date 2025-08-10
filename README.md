@@ -5,7 +5,6 @@
 - 🔭 Currently working on **Web Development Projects**
 - 🎓 Information Technology 
 - 👨‍💻 Full Stack Developer
-- 🎨 UI/UX Designer
 - 💼 Business Minded
 - 💡 Innovative Thinker
 - 🎯 2025 Goals: Contribute to Open Source
